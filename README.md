@@ -1,4 +1,4 @@
-flex
+This site has been minimally modified from the Flex theme, whose documentation is below.
 ====
 
 Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.

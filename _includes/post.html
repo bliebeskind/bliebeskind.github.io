@@ -3,22 +3,50 @@
     <img src="/images/sidebar-button.png">
   </div>
   <div id="post-info">
-    <div id="cover-photo-container">
-      <img id="cover-photo" src="/images/{{ page.cover }}">
-    </div>
     <div id="info-container">
-      <h1 id="title">{{ page.title }}</h1>
-      <span id="date">{{ page.date | date_to_string }}</span>
+      <h1 id="title">P(Evolution|Systems Biology, Biophysics)</h1>
     </div>
   </div>
+  <br><br>
 
   <div class="post">
-    {{ content }}
-  </div>
-  <div class="colophon">
-    <p>
-      <span id="pub-date">Published on {{ page.date | date_to_string }}</span> <span class="separator">&bull;</span>
-      <span id="social">Find me on <a href="">Twitter</a>!</span>
-    </p>
-  </div>
+  I am a postdoc with <a href="http://www.marcottelab.org/index.php/Main_Page"> Edward Marcotte and 
+  <a href="https://clm.utexas.edu/AldrichLab/">Richard Aldrich.
+  My CV (updated 3/18/15) is available <a href="./files/CV_SJSpielman.pdf">here</a>, and my research interests broadly encompass computational molecular evolution, protein evolution, and phylogenetics.
+  
+  <br><br>
+  <b>Contact Information</b>:
+  <div class="contact-info">
+        <li>
+          Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:{{bliebeskind@austin.utexas.edu}}">bliebeskind@austin.utexas.edu</a>
+        </li>
+        <li>
+          Github:&nbsp;&nbsp;&nbsp;  <a href="https://github.com/bliebeskind">bliebeskind</a>
+        </li> 
+    </div>
+  </div> 
+
+<div class="horiz">  </div> 
+
+<div id="post-info">
+    <div id="info-container">
+      <h1 id="title2">Recent Posts</h1>
+    </div>
+</div>
+
+          <ul class="posts-list">
+            {% for post in site.posts %}
+              <li class="post-link">
+              	<span class="post-date">{{ post.date | date_to_string }}</span>
+                <a class="post-title" href="{{ post.url }}">
+                  {{ post.title }} 
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+
+  
+  
+  
+</div>   
 </div>

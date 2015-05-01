@@ -26,16 +26,29 @@
           <h1 class="title"><a href="/"><img id="logo" src="/images/Stykkisholmer.png"></a></h1>
           <span class="tagline">Ben Liebeskind</span>
         </div>
+		
         <div class="posts">
-          <ul class="posts-list">
-            {% for post in site.posts %}
-              <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
-                  <span class="post-date">{{ post.date | date_to_string }}</span>
-                  {{ post.title }}
-                </a>
-              </li>
-            {% endfor %}
+          <ul class="side-list">
+              <li class="side-link">
+				<a class="side-title" href="/">
+					Home
+				</a>
+			  </li>
+			  <li class="side-link">
+				<a class="side-title" href="/research.html">
+					Research
+				</a>
+			  </li>
+			  <li class="side-link">
+				<a class="side-title" href="/publications.html">
+					Publications
+				</a>
+			  </li>
+			  <li class="side-link">
+				<a class="side-title" href="/teaching.html">
+					Teaching
+				</a>
+			  </li>
           </ul>
         </div>
         <div class="footer">

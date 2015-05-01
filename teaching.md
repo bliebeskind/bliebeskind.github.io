@@ -14,3 +14,6 @@ at University of Texas at Austin. The course takes students through basic Unix a
 use programming in their research. All the materials are freely available [here](https://wikis.utexas.edu/display/CCBB/Introduction+to+Biological+Computing+Course)
 and [here](https://github.com/sjspielman/UTbiocomputing2015).
 The course is currently taught by [Stephanie Spielman](http://sjspielman.org/)  and [Rebecca Tarvin](http://www.rebeccatarvin.com/).
+
+I have also assisted the [molecular evolution workshop](https://molevol.mbl.edu/wiki/index.php/Main_Page) at Woods Hole a few times. If you're 
+interested in learning about molecular evolution, I highly recommend this one-of-a-kind course

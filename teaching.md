@@ -6,7 +6,7 @@ cover: BenByteClub.png
 categories: posts
 ---
 
-## Teaching
+## Computing in Biology
 
 I co-founded and taught a peer-led working group on computational biology in collaboration with [April Wright]
 (http://wrightaprilm.github.io/) and the Center for Computational Biology and Bioinformatics [(CCBB)] (http://ccbb.biosci.utexas.edu/)

@@ -13,3 +13,6 @@ event? My PhD work explored this question by investigating the evolutionary hist
 the main drivers of electrical excitability in nervous systems. I did this work in the labs of 
 [Harold Zakon](http://www.biosci.utexas.edu/neuroscience/HaroldZakon/) and [David Hillis](http://www.zo.utexas.edu/faculty/antisense/)
 at University of Texas at Austin.
+
+Here's a blog I wrote for [BEACON](http://beacon-center.org/)
+a few years back: [Electrical Life](http://beacon-center.org/blog/2013/10/14/beacon-researchers-at-work-electrical-life/)

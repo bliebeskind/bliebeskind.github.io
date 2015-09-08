@@ -8,6 +8,7 @@ categories: posts
 
 ## 2015
 
++ CD McWhite, **BJ Liebeskind**, EM Marcotte Applications of comparative evolution to human disease genetics *COGD* 35, 16-24
 + **BJ Liebeskind**, DM Hillis, HH Zakon Convergence of ion channel genome content in early animal evolution *PNAS* 112 (8), E846-E851
 + Y Moran, MG Barzilai, **BJ Liebeskind**, HH Zakon Evolution of voltage-gated ion channels at the emergence of Metazoa *JEB* 218 (4), 515-525
 

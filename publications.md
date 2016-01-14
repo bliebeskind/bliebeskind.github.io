@@ -6,6 +6,10 @@ cover: BacNavTree.png
 categories: posts
 ---
 
+## 2016
+
++ **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE*, ISSN: 0169-5347
+
 ## 2015
 
 + CD McWhite, **BJ Liebeskind**, EM Marcotte Applications of comparative evolution to human disease genetics *COGD* 35, 16-24

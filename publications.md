@@ -8,7 +8,7 @@ categories: posts
 
 ## 2016
 
-+ **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE*, ISSN: 0169-5347
++ **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE* 31 (2), 127-135
 
 ## 2015
 

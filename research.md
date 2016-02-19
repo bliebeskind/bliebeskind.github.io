@@ -21,9 +21,9 @@ a few years back: [Electrical Life](http://beacon-center.org/blog/2013/10/14/bea
 
 Organismal diversity has two main, non-independent causes: shared ancestry (history), and the evolutionary process (selection).
 How can we leverage these two causes to better understand the genetics of human disease? I recently wrote a [review of this 
-subject] (http://www.sciencedirect.com/science/article/pii/S0959437X15000878) that explores the variety of ways that
+subject](http://www.sciencedirect.com/science/article/pii/S0959437X15000878/) that explores the variety of ways that
 researchers leverage organismal diversity, model systems, and evolutionary reasoning to discover new genes associated with
-human diseases. In the [Marcotte] (http://www.marcottelab.org/index.php/Main_Page) and [Aldrich] (https://clm.utexas.edu/AldrichLab/)
+human diseases. In the [Marcotte](http://www.marcottelab.org/index.php/Main_Page) and [Aldrich](https://clm.utexas.edu/AldrichLab/)
 labs I use a combination of yeast genetics (pic above), systems biology, and bioinformatics to better understand the
 evolutionary process across all the levels of organisation; from the nucleotide, through the protein and cellular levels,
 and on up to the whole organism.

@@ -8,8 +8,8 @@ categories: posts
 
 ## Computing in Biology
 
-I co-founded and taught a peer-led working group on computational biology in collaboration with [April Wright]
-(http://wrightaprilm.github.io/) and the Center for Computational Biology and Bioinformatics [(CCBB)] (http://ccbb.biosci.utexas.edu/)
+I co-founded and taught a peer-led working group on computational biology in collaboration with [April Wright](http://wrightaprilm.github.io/) 
+and the Center for Computational Biology and Bioinformatics [(CCBB)](http://ccbb.biosci.utexas.edu/)
 at University of Texas at Austin. The course takes students through basic Unix and Python, and then recruits guest speakers to talk about how they 
 use programming in their research. All the materials are freely available [here](https://wikis.utexas.edu/display/CCBB/Introduction+to+Biological+Computing+Course)
 and [here](https://github.com/sjspielman/UTbiocomputing2015).

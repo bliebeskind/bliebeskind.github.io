@@ -8,7 +8,8 @@ categories: posts
 
 ## 2016
 
-+ DB Halling, **BJ Liebeskind**, AW Hall, RW Aldrich Conserved properties of individual Ca2+-binding sites in calmodulin *PNAS* doi:10.1073/pnas.1600385113
++ **BJ Liebeskind**, CD McWhite, EM Marcotte Towards Consensus Gene Ages *BioRxiv* http://dx.doi.org/10.1101/042036 
++ DB Halling, **BJ Liebeskind**, AW Hall, RW Aldrich Conserved properties of individual Ca2+-binding sites in calmodulin *PNAS* 113 (9), E1216-E1225
 + **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE* 31 (2), 127-135
 
 ## 2015

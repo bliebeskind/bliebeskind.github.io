@@ -35,16 +35,23 @@ and Simpson. And it seems amiss not to even mention the name of [Tinbergen](http
 physiological and evolutionary causes was already being discussed by the Socratic school of philosophers in ancient Athens, and was most famously stated in Aristotle’s account of the four causes in the Physics:
 
 **Aristotle's Four Causes**, which I've grouped *very* tentatively under two headings to show the connection to Tinbergen
-| Materialistic | Non-Materialistic |
-| ------------- | ----------------- | 
-| Material cause: the material of a thing | Formal cause: the look of a thing
-| Efficient cause: a things first mover | Final cause: the *telos* or end of a thing |
+
+1. **Materialistic**
+	* Material cause: the material of a thing 
+	* Formal cause: the look of a thing
+2. **Non-Materialistic**
+	* Efficient cause: a things first mover 
+	* Final cause: the *telos* or end of a thing |
+
 
 **Tinbergen's Four Questions**
-| Proximate | Ultimate |
-| --------- | -------- |
-| Mechanism | Phylogeny |
-| Ontogeny | Adaptation |
+
+1. **Proximate**
+	* Mechanism 
+	* Phylogeny
+2. **Ultimate**
+	* Ontogeny
+	* Adaptation
 
 Aristotle was a complex and subtle writer, and this is not the place to unpack similarities and differences between his and modern conceptions of cause (I recommend 
 [Sachs](http://www.amazon.com/Aristotles-Physics-Guided-Masterworks-Discovery/dp/0813521920), 

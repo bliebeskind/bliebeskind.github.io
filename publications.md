@@ -8,7 +8,8 @@ categories: posts
 
 ## 2016
 
-+ **BJ Liebeskind**, CD McWhite, EM Marcotte Towards Consensus Gene Ages *GBE* DOI: 10.1093/gbe/evw113, Pre-print: http://dx.doi.org/10.1101/042036 
++ **BJ Liebeskind**, What makes a sodium channel? *JGP* doi: 10.1085/jgp.20161165
++ **BJ Liebeskind**, CD McWhite, EM Marcotte Towards consensus gene ages *GBE* DOI: 10.1093/gbe/evw113, Pre-print: http://dx.doi.org/10.1101/042036 
 + DB Halling, **BJ Liebeskind**, AW Hall, RW Aldrich Conserved properties of individual Ca2+-binding sites in calmodulin *PNAS* 113 (9), E1216-E1225
 + **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE* 31 (2), 127-135
 

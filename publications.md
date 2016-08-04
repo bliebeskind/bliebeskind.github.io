@@ -11,15 +11,20 @@ categories: posts
 
 ## 2016
 
-+ **BJ Liebeskind**, What makes a sodium channel? *JGP* doi: 10.1085/jgp.20161165
++ **BJ Liebeskind**, What makes a sodium channel? *JGP* 148 (2) 89-90
 + **BJ Liebeskind**, CD McWhite, EM Marcotte Towards consensus gene ages *GBE* DOI: 10.1093/gbe/evw113, Pre-print: http://dx.doi.org/10.1101/042036 
 + DB Halling, **BJ Liebeskind**, AW Hall, RW Aldrich Conserved properties of individual Ca2+-binding sites in calmodulin *PNAS* 113 (9), E1216-E1225
 + **BJ Liebeskind**, DM Hillis, HH Zakon, HA Hofmann Complex homology and the evolution of nervous systems *TREE* 31 (2), 127-135
+
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi='10.1016/j.tree.2015.12.005'></div>
 
 ## 2015
 
 + CD McWhite, **BJ Liebeskind**, EM Marcotte Applications of comparative evolution to human disease genetics *COGD* 35, 16-24
 + **BJ Liebeskind**, DM Hillis, HH Zakon Convergence of ion channel genome content in early animal evolution *PNAS* 112 (8), E846-E851
+
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi='10.1073/pnas.1501195112'></div>
+
 + Y Moran, MG Barzilai, **BJ Liebeskind**, HH Zakon Evolution of voltage-gated ion channels at the emergence of Metazoa *JEB* 218 (4), 515-525
 
 ## 2014
@@ -33,6 +38,7 @@ categories: posts
 ## 2012
 
 + **BJ Liebeskind**, DM Hillis, HH Zakon Phylogeny unites animal sodium leak channels with fungal calcium channels in an ancient, voltage-insensitive clade *Mol. Biol. Evol."
+
 
 ## 2011
 

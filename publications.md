@@ -6,6 +6,9 @@ cover: BacNavTree.png
 categories: posts
 ---
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+
 ## 2016
 
 + **BJ Liebeskind**, What makes a sodium channel? *JGP* doi: 10.1085/jgp.20161165
@@ -34,5 +37,9 @@ categories: posts
 ## 2011
 
 + **BJ Liebeskind**, DM Hillis, HH Zakon Evolution of sodium channels and the new view of early nervous system evolution *Commun. Integr. Biol.* 4 (6), 679-683
-+ **BJ Liebeskind**, DM Hillis, HH Zakon Evolution of sodium channels predates the origin of nervous systems in animals *PNAS* 108 (22), 9154-9159
++ **BJ Liebeskind**, DM Hillis, HH Zakon Evolution of sodium channels predates the origin of nervous systems in animals *PNAS* 108 (22), 9154-9159 
+
+
+<div class='altmetric-embed' data-badge-type='donut' data-badge-popover='right' data-doi='10.1073/pnas.1106363108'></div>
+
 

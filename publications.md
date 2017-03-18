@@ -8,6 +8,12 @@ categories: posts
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+## 2017
+
+<li>
+	<strong>BJ Liebeskind</strong>, HA Hofmann, DM Hillis, HH Zakon Evolution of animal neural systems <i>bioRxiv</i>
+	<div class='altmetric-embed' style="display: inline" data-badge-popover='right' data-doi='https://doi.org/10.1101/116715' data-hide-no-mentions="true"></div>
+</li>
 
 ## 2016
 

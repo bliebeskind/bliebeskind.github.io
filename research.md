@@ -45,8 +45,8 @@ gene families, which radiated independently in a number of early animal lineages
 neural phenotypes in cnidarians, ctenophores, and bilaterians?
 
 One common way that researchers track the history of gene families is to "flatten" the phylogenetic tree into groups corresponding to 
-sets of homologs (as in "phylostratigraphy"](https://en.wikipedia.org/wiki/Genomic_phylostratigraphy)) or orthologs. We [recently showed]
-(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4943184/) that common orthology inference algorithms, which are used upstream of many other 
+sets of homologs (as in ["phylostratigraphy"](https://en.wikipedia.org/wiki/Genomic_phylostratigraphy)) or orthologs. We 
+[recently showed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4943184/) that common orthology inference algorithms, which are used upstream of many other 
 phylogenetic applications as well, disagree strongly with one another when used to infer gene ages. We found evidence of widespread systematic
 error that correlated with algorithm type, and suggested that any application using these algorithms ought to employ some sort of consensus
 strategy, and ideally should propagate uncertainty into the downstream analysis. This project was made possible by the 

@@ -79,7 +79,7 @@ categories: posts
 ## 2011
 
 <li>
-	<strong>BJ Liebeskind</strong>, DM Hillis, HH Zakon. Evolution of sodium channels and the new view of early nervous system evolution <i>Commun. Integr. Biol.</i> 4 (6), 679-683
+	<strong>BJ Liebeskind</strong>. Evolution of sodium channels and the new view of early nervous system evolution <i>Commun. Integr. Biol.</i> 4 (6), 679-683
 	<div class='altmetric-embed' style="display: inline" data-badge-popover='right' data-doi='10.4161/cib.17069' data-hide-no-mentions="true"></div>
 </li>
 
